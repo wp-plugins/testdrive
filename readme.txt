@@ -1,4 +1,4 @@
-# testdrive
+# TestDrive
 
 === Plugin Name ===
 
@@ -49,14 +49,15 @@ and test your iOS app.
    https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html
 4. Install WordPress on your Apache server as per:
    https://codex.wordpress.org/Installing_WordPress#Famous_5-Minute_Install
-5. Open the command line and go to the plugins directory:
-   $> cd /var/www/my-website/wordpress/wp-content/plugins/
-6. Check-out the testdrive plugin using svn:
-   $> svn co http://plugins.svn.wordpress.org/testdrive testdrive
-7. Open the browser on your PC, login to your WordPress website and go to
+5. Open the browser on your PC, login to your WordPress website and go to
    Plugins:
    https://my-website.com/wp-admin/plugins.php
-8. Activate the TestDrive plugin.
+6. Click the Add New button at the top of the Plugins page.
+7. Search for:
+   testdrive
+   NOTE: You can manuall download the TestDrive plugin from: 
+   https://wordpress.org/plugins/testdrive/
+8. Click the Install Now button and then Activate the TestDrive plugin.
 9. Compile your iOS app and create and ad-hoc archive as per:
    http://stackoverflow.com/questions/19081180/ad-hoc-deployment
    NOTE: Be sure to follow all of their recommendations!

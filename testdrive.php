@@ -2,25 +2,16 @@
 
 /**
  * Plugin Name:	TestDrive
- * Plugin URI:	https://github.com/denal05/testdrive
+ * Plugin URI:	https://wordpress.org/plugins/testdrive/
  * Description: TestDrive is a plugin that replaces the main feature of TestFlight - installing an iOS app over-the-air on an iOS device through a simple click on a link. 
  * Version:	1.0.0
  * Author:	INform
  * Author URI:	http://inform.mk
  * License:	GPL2
- * How to:	README.md
- *
+ * How to:	readme.txt
  * @since	1.0.0
  * @link	https://stackoverflow.com/questions/27517288/add-update-custom-fields-after-select-pictures-in-media-window-wordpress
  * @package	TestDrive
- */
-
-/**
- * NOTE TO REVIEWERS:
- * I don't think I need to use any data validation or sanitization (yet).
- * Please correct me if I'm wrong.
- * However, I'm unsure whether I should use esc_js() when calling require() on
- * the download_link.js file.
  */
 
 /**

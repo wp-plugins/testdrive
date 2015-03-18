@@ -70,6 +70,10 @@ function testdrive_script() {
 	echo '</script>';
 	echo '<div id="link"></div>';
 	echo '<div id="message"></div>';
+
+	echo '<hr>';
+
+	echo '<h1><a href="https://testdrive.sironaecg.com/wp-content/plugins/testdrive/testdrive.mobileconfig">Get your UDID</a></h1>';
 }
 
 /**
